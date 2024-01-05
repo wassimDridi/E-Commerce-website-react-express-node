@@ -1,0 +1,189 @@
+{
+  "products": [
+    {
+      "reference": "2KD99 Ultra Série 82",
+      "designation": "Smart Watch - KD99 Ultra Série 8 - Bluetooth Call Fitness - Ceinture Noir",
+      "marque": "222",
+      "prixAchat": "100.00",
+      "prixVente": "75.90",
+      "qtestock": "300",
+      "imageartpetitf": "sw11.jpg",
+      "category": "smartwatch",
+      "id": 2
+    },
+    {
+      "reference": "KD99 Ultra Série 8",
+      "designation": "Smart Watch - KD99 Ultra Série 8 - Bluetooth Call Fitness - Ceinture Orange",
+      "marque": "222",
+      "prixAchat": "99.00",
+      "prixVente": "79.90",
+      "qtestock": "30",
+      "imageartpetitf": "sw12.jpg",
+      "category": "smartwatch",
+      "id": 3
+    },
+    {
+      "reference": "S8 Ultra Smart Watch",
+      "designation": "Smart Watch S8 Ultra Smart Watch, Iphone, Android - Le plus grand écran 49 MM orange",
+      "marque": "222",
+      "prixAchat": "140.00",
+      "prixVente": "99.90",
+      "qtestock": "30",
+      "imageartpetitf": "sw13.jpg",
+      "category": "smartwatch",
+      "id": 4
+    },
+    {
+      "reference": "X8 MAX",
+      "designation": "X8 MAX Smartwatch Bluetooth callwatch Moniteur de fréquence cardiaque Smart Watch pour Android iPhone",
+      "marque": "222",
+      "prixAchat": "64.00",
+      "prixVente": "65.90",
+      "qtestock": "30",
+      "imageartpetitf": "sw14.jpg",
+      "category": "smartwatch",
+      "id": 5
+    },
+    {
+      "reference": "HW7 Max",
+      "designation": "HW7 Max Montre Intelligente Série 7 NFC Smartwatch 1.99 pouces Moniteur de Glycémie - Noir",
+      "marque": "222",
+      "prixAchat": "80.00",
+      "prixVente": "70.90",
+      "qtestock": "30",
+      "imageartpetitf": "sw15.jpg",
+      "category": "smartwatch",
+      "id": 6
+    },
+    {
+      "reference": "iPhone 14",
+      "designation": "Apple iPhone 14 - 6,1\" - 6Go RAM + 128Go ROM - Starlight",
+      "marque": "222",
+      "prixAchat": "5.330",
+      "prixVente": "5.300",
+      "qtestock": "20",
+      "imageartpetitf": "tel11.jpg",
+      "category": "telephone",
+      "id": 7
+    },
+    {
+      "reference": "iPhone 14 Pro",
+      "designation": "Apple iPhone 14 Pro - 6,1\" - 6Go RAM + 512Go ROM - Deep Purple",
+      "marque": "222",
+      "prixAchat": "8.750",
+      "prixVente": "8.45024",
+      "qtestock": "30",
+      "imageartpetitf": "tel12.jpg",
+      "category": "telephone",
+      "id": 8
+    },
+    {
+      "reference": "IPHONE 11",
+      "designation": "iPhone 11 est équipé d'un écran LCD Liquid Retina HD avec 6,1 pouces. Il est résistant à la poussière",
+      "marque": "222",
+      "prixAchat": "2.899",
+      "prixVente": "2.799",
+      "qtestock": "30",
+      "imageartpetitf": "tel13.png",
+      "category": "telephone",
+      "id": 9
+    },
+    {
+      "reference": "IPHONE 12",
+      "designation": "Un superbe écran. Un écran Super RetinaXDR de 6,1 pouces – le meilleur écran OLED à ce jour",
+      "marque": "222",
+      "prixAchat": "3.899",
+      "prixVente": "3.599",
+      "qtestock": "30",
+      "imageartpetitf": "tel14.jpg",
+      "category": "telephone",
+      "id": 10
+    },
+    {
+      "reference": "IPHONE 12 PRO",
+      "designation": "HW7 Max Montre Intelligente Série 7 NFC Smartwatch 1.99 pouces Moniteur de Glycémie - Noir",
+      "marque": "222",
+      "prixAchat": "4.499",
+      "prixVente": "4.299",
+      "qtestock": "30",
+      "imageartpetitf": "tel15.jpg",
+      "category": "telephone",
+      "id": 11
+    },
+    {
+      "reference": "MACBOOK AIR M2",
+      "designation": "Boosté par la puce M2 nouvelle génération, le MacBook Air repensé offre des performances exceptionnelle",
+      "marque": "222",
+      "prixAchat": "6.699",
+      "prixVente": "6.599",
+      "qtestock": "20",
+      "imageartpetitf": "pc11.png",
+      "category": "pc",
+      "id": 12
+    },
+    {
+      "reference": "MACBOOK PRO 13.3",
+      "designation": "Multitâche avec des programmes exigeants comme Final Cut Pro sur l'Apple MacBook Pro 13 pouces (2020) MYD82FN/A Space Grey",
+      "marque": "222",
+      "prixAchat": "5.899",
+      "prixVente": "5.599",
+      "qtestock": "30",
+      "imageartpetitf": "pc12.jpg",
+      "category": "pc",
+      "id": 13
+    },
+    {
+      "reference": "MACBOOK PRO 16",
+      "designation": "Le nouveau MacBook Pro offre des performances qui changent la donne pour les pros. Choisissez la puissante puce M1 Pro,",
+      "marque": "222",
+      "prixAchat": "13.299",
+      "prixVente": "13.099",
+      "qtestock": "30",
+      "imageartpetitf": "pc13.png",
+      "category": "pc",
+      "id": 14
+    },
+    {
+      "reference": "MACBOOK PRO 16 POUCES M2 MAX",
+      "designation": "Qu’il soit branché ou sur batterie, le MacBook Pro 16 pouces avec puce M2 Pro ou M2 Max redéfinit puissance",
+      "marque": "222",
+      "prixAchat": "15.399",
+      "prixVente": "15.199",
+      "qtestock": "30",
+      "imageartpetitf": "pc14.png",
+      "category": "pc",
+      "id": 15
+    },
+    {
+      "reference": "MACBOOK AIR 15 POUCES M2",
+      "designation": "HW7 Max Montre Intelligente Série 7 NFC Smartwatch 1.99 pouces Moniteur de Glycémie - Noir",
+      "marque": "222",
+      "prixAchat": "5.999",
+      "prixVente": "5.499",
+      "qtestock": "30",
+      "imageartpetitf": "pc15.jpg",
+      "category": "pc",
+      "id": 16
+    }
+  ],
+  "Clients": [
+    {
+      "nom": "dridi",
+      "prenom": "wassim",
+      "numeroTelephone": "20252523",
+      "adresse": "morneg",
+      "email": "wassimdridi724@gmail.com",
+      "motDePasse": "1111",
+      "id": 0
+    },
+    {
+      "nom": "fazzeni",
+      "prenom": "mahdi",
+      "numeroTelephone": "20252523",
+      "adresse": "jerziz",
+      "email": "fazzeniMahdi4@gmail.com",
+      "motDePasse": "12345",
+      "id": 1
+    }
+  ]
+}
